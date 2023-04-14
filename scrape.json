@@ -1,0 +1,16 @@
+{
+    "Version": "1.0.0",
+    "url1": "https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/HTTP.txt",
+    "url2": "https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/http.txt",
+    "url3": "https://raw.githubusercontent.com/HyperBeats/proxy-list/main/http.txt",
+    "url4": "https://raw.githubusercontent.com/HyperBeats/proxy-list/main/https.txt",
+    "url5": "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+    "url6": "https://api.proxyscrape.com/?request=displayproxies&proxytype=http",
+    "url7": "https://api.openproxylist.xyz/http.txt",
+    "url8": "http://alexa.lr2b.com/proxylist.txt",
+    "url9": "https://multiproxy.org/txt_all/proxy.txt",
+    "url10": "https://proxyspace.pro/http.txt",
+    "url11": "http://rootjazz.com/proxies/proxies.txt",
+    "url12": "https://www.proxy-list.download/api/v1/get?type=http",
+    "url13": "https://www.freeproxychecker.com/result/http_proxies.txt"
+}
